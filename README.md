@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Excel, SQL, Python, Machine Learning, Statistical Analysis, Deep Learning, PBI, Tableau,**
 
-- 📫 How to reach me **zaidahmed7454@gmail.com**
+- 📫 How to reach me **zaidahmed.data@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
